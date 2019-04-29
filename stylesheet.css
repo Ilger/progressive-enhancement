@@ -1,15 +1,15 @@
 body {
   max-width: 90%;
   margin: 0 auto;
-  /*background:-moz-linear-gradient(120deg,#6BB05F,#5D95B0)no-repeat center center fixed;
+  background:-moz-linear-gradient(120deg,#6BB05F,#5D95B0)no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; */
-  background-image: url(https://i.pinimg.com/originals/30/41/e9/3041e97360419e1b970490b1a35f8239.jpg);
+  background-size: cover;
+  /* background-image: url(https://i.pinimg.com/originals/30/41/e9/3041e97360419e1b970490b1a35f8239.jpg);
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: bottom right, 0px 0px;
+  background-position: bottom right, 0px 0px; */
 }
 
 blockquote, p {

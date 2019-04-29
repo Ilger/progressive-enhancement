@@ -1,0 +1,16 @@
+body {
+  max-width: 90%;
+  margin: 0 auto;
+  
+}
+
+blockquote, p {
+  font-family: serif;
+  color: #1B0E33;
+  font-size: 20px;
+  letter-spacing: 1.25px;
+
+}
+
+a:hover {color: #427F8A;}
+a:visited {color: #7F7F81;}

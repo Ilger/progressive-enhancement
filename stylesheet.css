@@ -31,9 +31,13 @@ blockquote {
 
 .farmer {
   border-left: 3px solid green;
+  display: inline-block;
+  background-color: #e4e4e4;
 }
 .villagers{
   border-left: 3px solid blue;
+  display: inline-block;
+  background-color: #e4e4e4;
 }
 
 a:hover {color: #427F8A;}

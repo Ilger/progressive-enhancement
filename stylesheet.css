@@ -1,7 +1,7 @@
 body {
   max-width: 90%;
   margin: 0 auto;
-  
+
 }
 
 blockquote, p {
@@ -10,6 +10,10 @@ blockquote, p {
   font-size: 20px;
   letter-spacing: 1.25px;
 
+}
+blockquote {
+  max-width: 50%;
+  font-size: 26px;
 }
 
 a:hover {color: #427F8A;}

@@ -65,3 +65,13 @@ td {
 td{
   border-left: 1px solid black;
 }
+
+.notification {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  border: 2px solid yellow;
+  background-color: blue;
+  padding: 10px;
+}

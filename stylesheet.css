@@ -17,6 +17,7 @@ blockquote {
   background-color: #f1f1f1;
   border-left: 3px solid;
   padding: 20px;
+  margin: 80px auto;
 }
 
 a:hover {color: #427F8A;}
